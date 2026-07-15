@@ -4,9 +4,6 @@
   # Hey There 👋
   
   <!--
-**DebadityaMalakar/DebadityaMalakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
 - ### 🌱 I’m currently learning Game Dev
@@ -30,11 +27,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-<!--
-[![GitHub Streak]([http://github-readme-streak-stats.herokuapp.com?user=DebadityaMalakar&theme=dark&background=000000](https://streak-stats.demolab.com/?user=DebadityaMalakar&theme=dark))](https://git.io/streak-stats)
--->
-
-<img src="https://streak-stats.demolab.com/?user=TacoJr01&theme=dark" alt="Github Streak" />
+[![Github Streak](https://streak-stats.demolab.com/?user=TacoJr01&theme=dark&timezone=Asia/Kolkata&cache_seconds=0)](https://github.com/TacoJr01/TacoJr01)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TacoJr01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
